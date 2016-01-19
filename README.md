@@ -4,3 +4,5 @@
 ---
 
 [参阅文档](./doc.htm)
+
+加密方式参阅AesUtils.java
